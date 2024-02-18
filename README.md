@@ -53,3 +53,4 @@ UK Food Standards AgencyLinks to an external site. (2022). UK food hygiene ratin
 Accessed Sept 9, 2022 and Sept 12, 2022 with the establishment settings as follows: longitude=51.5072, latitude=-0.1276, maxdistancelimit=4567, pagesize=10000, sortoptionkey=distance, pagenumber=(1,2,3,4,5,6,7,8).
 
 ## Notes on Challenge Completion
+To complete this challenge I utilized past in-class solved activites, MongoDB's Online Manual and ChatGPT. 
